@@ -1,4 +1,4 @@
-vessl-multinode-example
+nccl-multinode-example
 =======================
 
 VESSL Run을 활용하여 Infiniband가 연결된 클러스터에서 multi-node 학습을 진행하는 예제입니다.
